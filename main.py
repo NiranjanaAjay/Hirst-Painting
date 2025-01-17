@@ -2,7 +2,7 @@
 import turtle
 from turtle import Turtle,Screen
 import random
-# colours=colorgram.extract("image.jpg.png",15)
+# colours=colorgram.extract("image.jpg",15)
 
 timmy=Turtle()
 turtle.colormode(255)
